@@ -1,8 +1,6 @@
 # leetcode-programming
 
-Programming practice (Competitive Programming) from the LeetCode website.
-
-https://leetcode.com/
+Programming practice (Competitive Programming) from the [LeetCode](https://leetcode.com) website.
 
 ## Others
 
